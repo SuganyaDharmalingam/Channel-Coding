@@ -1,0 +1,15 @@
+***********POLAR CODES************
+
+“LDCP and Polar Codes in 5G Standard” 
+
+Implementation of  the encoder for Polar Codes 
+
+Implement the decoder: Successive Cancellation Decoder: SC decoder in Matlab
+
+Simulation of Polar Codes and the simplified SC decoder 
+
+Extend the code to be able to simulate the codec for Eb/N0 and BPSK over AWGN in the range from 1 to 4 dB in steps of 0,5 dB 
+
+i)for an (64,32) code 
+
+ii)for an (1024,512) code
